@@ -8,9 +8,9 @@ $ pkg install git
 
 $ pkg install python
 
-$ git clone https://github.com/sync-ankit/TG-UB
+$ git clone https://github.com/sync-ankit/TELEGRAM-USERBOT
 
-$ cd TG-UB
+$ cd TELEGRAM-USERBOT
 
 $ python setup.py
 
