@@ -1,4 +1,4 @@
-import ankit.client, ankit.kick, ankit.goodmorning, ankit.ketdim, ankit.uzbrun, ankit.whyrun, ankit.happybirthday, ankit.iloveyou, ankit.goodnight, ankit.ahelp, ankit.lovelyrun, ankit.bombs, ankit.help, ankit.loading, ankit.emoji, ankit.dump, ankit.sexy, ankit.type, ankit.magicrun, ankit.animation, ankit.animation2, ankit.mute, ankit.fuck, ankit.rev, ankit.tr, ankit.userinfo, ankit.base64, ankit.react, ankit.snow, ankit.TextToSpeech, ankit.rename, ankit.iptrace, ankit.spam, ankit.alive, ankit.tagall, ankit.afk, ankit.timer, ankit.ping
+import ankit.client, ankit.kick, ankit.goodmorning, ankit.ketdim,  ankit.happybirthday, ankit.iloveyou, ankit.goodnight, ankit.ahelp, ankit.lovelyrun, ankit.bombs, ankit.help, ankit.loading, ankit.emoji, ankit.dump, ankit.sexy, ankit.type, ankit.magicrun, ankit.animation, ankit.animation2, ankit.mute, ankit.fuck, ankit.rev, ankit.tr, ankit.userinfo, ankit.base64, ankit.react, ankit.snow, ankit.TextToSpeech, ankit.rename, ankit.iptrace, ankit.spam, ankit.alive, ankit.tagall, ankit.afk, ankit.timer, ankit.ping
 import ankit.allanimations as allanim
 import ankit.fonts as fonts
 import os
@@ -106,8 +106,6 @@ client.add_event_handler(ankit.iloveyou.iloveu)
 client.add_event_handler(ankit.goodnight.goodnight)
 client.add_event_handler(ankit.kick.runkick)
 client.add_event_handler(ankit.ketdim.ketdihandlers)
-client.add_event_handler(ankit.uzbrun.uzbanim)
-client.add_event_handler(ankit.whyrun.why)
 client.add_event_handler(fonts.weebify)
 client.add_event_handler(fonts.boxtxt)
 client.add_event_handler(fonts.bubbletxt)
