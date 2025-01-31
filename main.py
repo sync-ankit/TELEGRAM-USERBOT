@@ -1,4 +1,4 @@
-import ankit.client, ankit.kick, ankit.goodmorning, ankit.ketdim,  ankit.happybirthday, ankit.iloveyou, ankit.goodnight, ankit.ahelp, ankit.lovelyrun, ankit.bombs, ankit.help, ankit.loading, ankit.emoji, ankit.dump, ankit.sexy, ankit.type, ankit.magicrun, ankit.animation, ankit.animation2, ankit.mute, ankit.fuck, ankit.rev, ankit.tr, ankit.userinfo, ankit.base64, ankit.react, ankit.snow, ankit.TextToSpeech, ankit.rename, ankit.iptrace, ankit.spam, ankit.alive, ankit.tagall, ankit.afk, ankit.timer, ankit.ping
+import ankit.client, ankit.kick, ankit.goodmorning, ankit.ketdim,  ankit.happybirthday, ankit.iloveyou, ankit.goodnight, ankit.ahelp, ankit.lovelyrun, ankit.bombs, ankit.help, ankit.loading, ankit.emoji, ankit.dump, ankit.sexy, ankit.type, ankit.magicrun, ankit.animation, ankit.animation2, ankit.mute, ankit.fuck, ankit.rev, ankit.tr, ankit.userinfo, ankit.base64, ankit.react, ankit.snow, ankit.rename, ankit.iptrace, ankit.spam, ankit.alive, ankit.tagall, ankit.afk, ankit.timer, ankit.ping
 import ankit.allanimations as allanim
 import ankit.fonts as fonts
 import os
@@ -50,8 +50,7 @@ client.add_event_handler(ankit.react.react)
 client.add_event_handler(ankit.snow.snow)
 client.add_event_handler(ankit.rename.rename)	
 client.add_event_handler(ankit.iptrace.iptrace)
-client.add_event_handler(ankit.spam.delayspam)
-client.add_event_handler(ankit.TextToSpeech.runj)	
+client.add_event_handler(ankit.spam.delayspam)	
 client.add_event_handler(ankit.alive.alive)
 client.add_event_handler(ankit.tagall.tagall)
 client.add_event_handler(ankit.afk.runafkon)
@@ -122,18 +121,18 @@ os.system("clear")
 print("""\033[031m
    
    
-   _____    _______   ____  __.______________  ____ ___  ________________________________________ ___________________
-  /  _  \   \      \ |    |/ _|   \__    ___/ |    |   \/   _____/\_   _____/\______   \______   \\_____  \__    ___/
- /  /_\  \  /   |   \|      < |   | |    |    |    |   /\_____  \  |    __)_  |       _/|    |  _/ /   |   \|    |   
-/    |    \/    |    \    |  \|   | |    |    |    |  / /        \ |        \ |    |   \|    |   \/    |    \    |   
-\____|__  /\____|__  /____|__ \___| |____|    |______/ /_______  //_______  / |____|_  /|______  /\_______  /____|   
-        \/         \/        \/                                \/         \/         \/        \/         \/         
+ ____ ___  ________________________________________ ___________________
+|    |   \/   _____/\_   _____/\______   \______   \\_____  \__    ___/
+|    |   /\_____  \  |    __)_  |       _/|    |  _/ /   |   \|    |   
+|    |  / /        \ |        \ |    |   \|    |   \/    |    \    |   
+|______/ /_______  //_______  / |____|_  /|______  /\_______  /____|   
+                 \/         \/         \/        \/         \/         
 
       
 Developer: ANKIT KUMAR🏓🇮🇳 [@XNKIT69]
 Github : @xnkit69
 Instagram : @xnkit69
-Telegram : @xnkitkumar
+Telegram : @xnkit69
 
 You might send the .help command to any chat in Telegram
 """)
