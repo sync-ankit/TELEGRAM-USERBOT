@@ -49,7 +49,6 @@ USERBOT COMMANDS
 [38] Lovely - Animation lovely - .lovely
 <== Functions ==>
 [42] Mute - Admin function - .mute (m, h, d)
-[43] Text to speech - .speech <language code> <reply>
 [44] Kick ✈🚀 - .kick
 [45] Clock to bio - datetime - .setbioclock <number>
 [46] Clock to nick - firstname clock - .setclock <number> <nickname>
@@ -79,5 +78,4 @@ USERBOT COMMANDS
 [++] Animation help - .ahelp
 				  		  
 Developer: ANKIT KUMAR🏓🇮🇳 [@XNKIT69]
-Channel: @ankit_userbot
 """))
